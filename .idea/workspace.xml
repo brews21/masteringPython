@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +13,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py">
+        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="95" lean-forward="true" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+            <state relative-caret-position="-493">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding>
+                <element signature="e#207#220#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +40,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py" />
+        <option value="$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py" />
       </list>
     </option>
   </component>
@@ -60,13 +71,7 @@
               <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
               <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
-              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,8 +216,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="95" lean-forward="true" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#207#220#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
