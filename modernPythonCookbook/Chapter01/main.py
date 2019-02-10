@@ -5,7 +5,7 @@ from decimal import Decimal
 from fractions import Fraction
 from string import whitespace, punctuation
 
-print("Hello World")
+print("Chapter 01")
 
 print(math.log(sys.maxsize, 2))
 print(math.factorial(52))
