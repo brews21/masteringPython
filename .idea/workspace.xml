@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="" />
+    <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/chapter03/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +15,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py">
+        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="512">
+              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
               <folding>
-                <element signature="e#207#220#0" expanded="true" />
+                <element signature="e#207#221#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/index.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -39,13 +59,17 @@
       <list>
         <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter02/main.py" />
         <option value="$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py" />
+        <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter04/indest.rst" />
+        <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter04/index.rst" />
+        <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv" />
+        <option value="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="856" />
+    <option name="x" value="795" />
     <option name="y" value="23" />
-    <option name="width" value="824" />
+    <option name="width" value="885" />
     <option name="height" value="974" />
   </component>
   <component name="ProjectView">
@@ -65,6 +89,18 @@
               <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
               <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
+              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
+              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -75,6 +111,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modernPythonCookbook/chapter03" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,22 +237,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="856" y="23" width="824" height="974" extended-state="0" />
+    <frame x="795" y="23" width="885" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2652553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24652778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,12 +276,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/indest.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="897" column="8" selection-start-line="897" selection-start-column="8" selection-end-line="897" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#207#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+          <folding>
+            <element signature="e#207#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
