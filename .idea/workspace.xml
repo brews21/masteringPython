@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/index.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/chapter03/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+            <state relative-caret-position="407">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="e#207#221#0" expanded="true" />
               </folding>
@@ -31,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -88,18 +85,6 @@
               <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
               <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
-              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
-              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,14 +223,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="795" y="23" width="885" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24652778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24652778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,15 +288,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        <state relative-caret-position="407">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#207#221#0" expanded="true" />
           </folding>

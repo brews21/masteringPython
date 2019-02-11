@@ -53,3 +53,12 @@ log_rows = list(reader)[0][0] return hello
 also
 print(log_rows[0][0]) return hello
 '''
+
+head, tail = log_rows[:4], log_rows[4:]
+print(head[0])
+#print(tail[-1])
+
+reverseList = head[0]
+reverseList.reverse()
+print(reverseList)
+
