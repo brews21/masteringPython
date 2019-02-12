@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter04/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="407">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#207#231#0" expanded="true" />
               </folding>
@@ -343,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="407">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#207#231#0" expanded="true" />
           </folding>

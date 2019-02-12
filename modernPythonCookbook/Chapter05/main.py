@@ -8,12 +8,13 @@ the python file is use for/ meant to do
 from pathlib import Path
 import csv
 from collections import OrderedDict
+import sys
 
 
 print("Chapter05")
 
 count = 333
-print("count is ", count)
+print("count is", count)
 
 
 def get_fuel_use(source_path):
@@ -25,10 +26,15 @@ def get_fuel_use(source_path):
     return data
 
 
-sourcepath = Path("./test.csv")
-fuel_use = get_fuel_use(sourcepath)
+source_path = Path("./test.csv")
+fuel_use = get_fuel_use(source_path)
 
 print(fuel_use)
+
+
+'''
+
+this did not work from book 
 
 for leg in fuel_use:
     start = float(leg['fuel height on'])
@@ -37,8 +43,10 @@ for leg in fuel_use:
           "from ", leg['engine on'],
           "to ", leg['engine off'],
           "change ", start-finish, "in")
+    
+'''
 
-
+print("Red Alert!", file=sys.stderr)
 
 
 
