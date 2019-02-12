@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="422">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#207#231#0" expanded="true" />
               </folding>
@@ -86,6 +86,12 @@
               <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
               <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masteringPython" type="462c0819:PsiDirectoryNode" />
+              <item name="modernPythonCookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="masteringPython" type="b2602c69:ProjectViewProjectNode" />
@@ -254,12 +260,12 @@
     <frame x="757" y="23" width="923" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2361419" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2361419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,18 +304,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/index.rst">
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter03/index.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/chapter03/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#207#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter04/test.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -338,10 +334,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter03/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#207#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="422">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#207#231#0" expanded="true" />
           </folding>
