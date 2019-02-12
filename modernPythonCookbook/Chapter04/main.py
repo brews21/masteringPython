@@ -7,6 +7,7 @@ the python file is use for/ meant to do
 
 import pathlib
 import csv
+from fractions import Fraction
 
 print("Chapter04")
 
@@ -61,4 +62,23 @@ print(head[0])
 reverseList = head[0]
 reverseList.reverse()
 print(reverseList)
+
+
+def expected(n=8):
+    return n * sum(Fraction(1, (i+1)) for i in range(n))
+
+print(expected())
+print(round(expected()))
+
+
+
+
+
+
+
+
+
+
+
+
 
