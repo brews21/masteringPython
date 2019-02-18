@@ -16,6 +16,8 @@ from collections import Counter
 
 from fractions import Fraction
 
+from .chapter04 import Functions
+
 d1 = Dice()
 
 d1.roll()
@@ -56,3 +58,5 @@ stats = CounterStatistics(data)
 
 print("mean: {0:.2f}".format(stats.mean))
 print("Standard Deviation: {0:.3f}".format(stats.stddev))
+
+print(printHello())
