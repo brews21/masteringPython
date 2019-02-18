@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="51c5077d-6411-4d14-ade5-9766673f4085" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
+            <state relative-caret-position="655">
               <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#207#231#0" expanded="true" />
@@ -265,7 +263,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31519273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31519273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,7 +344,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modernPythonCookbook/Chapter05/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="655">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#207#231#0" expanded="true" />
