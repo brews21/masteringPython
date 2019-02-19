@@ -11,10 +11,14 @@ import random
 random.seed(1)
 
 from dice import Dice
+from player import Player
+from hand import Hand
 from counterstatistics import CounterStatistics
 from collections import Counter
 
 from fractions import Fraction
+
+from collections import namedtuple
 
 d1 = Dice()
 
@@ -56,3 +60,16 @@ stats = CounterStatistics(data)
 
 print("mean: {0:.2f}".format(stats.mean))
 print("Standard Deviation: {0:.3f}".format(stats.stddev))
+
+p = Player()
+p.stake = 100
+
+print(p.stake)
+
+Card = namedtuple('Card', ('rank', 'suit'))
+
+h1 = Hand(2)
+h1.deal(Card(rank=4, suit='\N{White Heart Suit}'))
+h1.deal(Card(rank=8, suit='\N{White Spade Suit}'))
+
+print(h1)
