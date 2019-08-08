@@ -1,0 +1,12 @@
+
+McCullock-Pitts (MCP) neuron
+
+F. Rosenblatt, The Perceptron, a Perceiving and Recognizing Automaton. Cornell Aeronautical Laboratory, 1957
+ -- mimic how a single neuron in the brain works: it either fires or it doesn't.
+ -- example of Supervised Learning
+
+ Rosenblatt's initial perceptron rule is fairly simple and can be summarized by the following steps:
+1. Initialize the weights to 0 or small random numbers.
+2. For each training sample x(i) perform the following steps:
+  a. Compute the output value yˆ .
+    b. Update the weights.
