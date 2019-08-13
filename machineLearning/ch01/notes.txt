@@ -1,0 +1,41 @@
+Three types of machine learning
+- Unsupervised
+- Supervised
+- Reinforcement
+
+-- Supervised Learning
+Is using a data set to predict future outcomes/ data set
+
+Example would be predicting exam results by using previous tests
+as the data
+
+-- Reinforcement Learning
+Develop a system that improves it self based on the interactions
+with the environment. The current state of the environment
+contains a "reward" signal. Learning is done by how well that
+action was measured by a "reward" function. Learn a series of
+actions that maximizes this reward via an exploratory
+trial-and-error approach or deliberative planning.
+
+Example would be a chess board, moves are decided by the state
+of the board and the reward is the win or lose of the game
+
+-- Unsupervised Learning
+dealing with unlabeled or unknown data structures, and we use it
+to extract meaningful info with guidance of a known outcome.
+
+
+Subgroups and Clustering
+organising data into meaningful subgroups without
+having any knowledge of the group memberships. They may arise
+during the analysis stage, defining a group of objects that
+share a certain degree of similarity
+
+
+
+Using Python3 and installing these modules
+• NumPy 1.9.1
+• SciPy 0.14.0
+• scikit-learn 0.15.2
+• matplotlib 1.4.0
+• pandas 0.15.2
